@@ -29,25 +29,25 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
+- [Copilot Mycrosoft]([https://chat.openai.com/](https://www.microsoft.com/pt-br/copilot/personal-ai-assistant)) 
 
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
 
 
-ChatGPT：
+Copilot Mycrosoft：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um título de um ebook sobre o tema API PIX LOTE COBV. o ebook é do nicho de mercado bancário. o título deve ser épico e curto e tenha uma temática de desenvolvedor de java|
+| conteúdo |Faça um texto para ebook, com foco em API PIX LOTE COBV. Extraia as informações do documento anexo. Explique sempre de maneira simples. deixe o texto enxuto|
 
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Copilot Mycrosoft
+- Imagens geradas via Copilot Mycrosoft
 
 ## 📚 Materiais
 
