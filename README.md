@@ -29,7 +29,7 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Copilot Mycrosoft]([https://chat.openai.com/](https://www.microsoft.com/pt-br/copilot/personal-ai-assistant)) 
+- [Copilot Mycrosoft](https://www.microsoft.com/pt-br/copilot/personal-ai-assistant) 
 
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
